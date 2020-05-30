@@ -1,3 +1,7 @@
 adios a todos
 mira como se mezclan las versiones
+<<<<<<< HEAD
 mezclando
+=======
+mezzzzzclando
+>>>>>>> rama2
